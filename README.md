@@ -27,7 +27,7 @@
 <br>
 
 <!-- 스탯 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheoljunpark&show_icons=true&theme=github_dark_dimmed) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheoljunpark&layout=compact&theme=github_dark_dimmed&card_width=418)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheoljunpark&show_icons=true&theme=github_dark_dimmed) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheoljunpark&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 백준 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dizncjfwns)](https://solved.ac/dizncjfwns)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=dizncjfwns&theme=dark)](https://solved.ac/dizncjfwns)
