@@ -1,8 +1,12 @@
+<div align="center">
+
 # 👋 Cheoljun Park
 
 ### 🧾 [Resume.](https://cheoljunpark.vercel.app/about/)&nbsp;&nbsp; 📚 [Blog.](https://cheoljunpark.vercel.app/)&nbsp;&nbsp; 📫 [Email.](mailto:dkfnak6789@gmail.com)
 
 <br>
+
+<div align="left">
 
 ## 🎯 Skills
 
@@ -43,8 +47,8 @@
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-f3f4f6.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=000000)
 ![Notion](https://img.shields.io/badge/Notion-f3f4f6.svg?&style=for-the-badge&logo=Notion&logoColor=000000)
 ![discord](https://img.shields.io/badge/discord-f3f4f6.svg?&style=for-the-badge&logo=discord&logoColor=5865F2)
-<br>
 
+</div>
 <!-- 스탯 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheoljunpark&show_icons=true&theme=github_dark_dimmed) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheoljunpark&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,3 +62,5 @@
 <!-- 조회수 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheoljunpark%2Fhit-counter&count_bg=%23C5C5C5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](github.com/cheoljunpark)
+
+</div>
