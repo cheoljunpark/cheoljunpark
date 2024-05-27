@@ -12,20 +12,20 @@
 
 ### Frontend
 
+![React](https://img.shields.io/badge/-React-f3f4f6?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-f3f4f6.svg?style=flat-square&logo=nextdotjs&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-f3f4f6?style=flat-square&logo=typescript&logoColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-f3f4f6?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-f3f4f6?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f3f4f6?style=flat-square&logo=JavaScript&logoColor=#F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-f3f4f6?style=flat-square&logo=typescript&logoColor=007ACC)
-![Node](https://img.shields.io/badge/-Nodejs-f3f4f6?style=flat-square&logo=Node.js&logoColor=43853d)
-![React](https://img.shields.io/badge/-React-f3f4f6?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-f3f4f6.svg?style=flat-square&logo=nextdotjs&logoColor=000000)
 ![Sass](https://img.shields.io/badge/Sass-f3f4f6.svg?style=flat-square&logo=sass&logoColor=CC6699)
+![Node](https://img.shields.io/badge/-Nodejs-f3f4f6?style=flat-square&logo=Node.js&logoColor=43853d)
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-f3f4f6.svg?&style=flat-square&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-f3f4f6.svg?&style=flat-square&logo=coffeescript&logoColor=007396)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-f3f4f6.svg?&style=flat-square&logo=SpringBoot&logoColor=6DB33F)
-![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-f3f4f6.svg?&style=flat-square&logo=&logoColor=6DB33F)
+![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-f3f4f6.svg?&style=flat-square&logo=hibernate&logoColor=6DB33F)
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-f3f4f6.svg?&style=flat-square&logo=SpringSecurity&logoColor=6DB33F)
 ![MySQL](https://img.shields.io/badge/MySQL-f3f4f6.svg?&style=flat-square&logo=MySQL&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-f3f4f6?style=flat-square&logo=MariaDB&logoColor=003545)
@@ -34,9 +34,10 @@
 
 ### DevOps
 
-![Git](https://img.shields.io/badge/Git-f3f4f6.svg?&style=flat-square&logo=Git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-f3f4f6?style=flat-square&logo=docker&logoColor=46a2f1)
+![Jenkins](https://img.shields.io/badge/-Jenkins-f3f4f6?style=flat-square&logo=jenkins&logoColor=D24939)
 ![Nginx](https://img.shields.io/badge/-Nginx-f3f4f6?style=flat-square&logo=nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-f3f4f6.svg?&style=flat-square&logo=Git&logoColor=F05032)
 ![AmazonEC2](https://img.shields.io/badge/AmazonEC2-f3f4f6.svg?&style=flat-square&logo=AmazonEC2&logoColor=FF9900)
 ![AmazonS3](https://img.shields.io/badge/AmazonS3-f3f4f6.svg?&style=flat-square&logo=AmazonS3&logoColor=569A31)
 
